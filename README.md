@@ -1,6 +1,5 @@
 # Belly Button Biodiversity
 
-![Bacteria by filterforge.com](https://github.com/<username>/<repository>/blob/main/images/bacteria.jpg)
 
 ## Project Overview
 
